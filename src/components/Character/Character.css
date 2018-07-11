@@ -1,0 +1,11 @@
+img {
+    width: 200px;
+    height: 200px;
+    float: none;
+    margin: 20px 60px;
+    box-shadow: 5px 4px gray;
+}
+
+div{
+    margin: 20px 10px;
+}
