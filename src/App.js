@@ -32,8 +32,8 @@ class App extends Component {
   }
 
   selected = (event) => {
-    console.log(this.state.clickedChars)
     if(this.state.clickedChars.includes(event.target.id)){
+      // console.log("lost " + this.state.clickedChars)
       this.endGame()
     }
     else {
@@ -45,11 +45,13 @@ class App extends Component {
       current > this.state.topScore ? top = current : top = this.state.topScore
 
       this.setState({
+        message: "Choose an Image",
         currentScore: current,
         clickedChars: joined,
         topScore: top
       })
       this.shuffle();
+      // console.log(this.state.message);
     }
   }
 

@@ -2,7 +2,7 @@
   "name": "clicky-game",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://marlonjj.github.io/clicky-game",
+  "homepage": "https://marlonjj.github.io/clicky-game",
   "dependencies": {
     "react": "^16.4.1",
     "react-dom": "^16.4.1",
