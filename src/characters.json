@@ -5,7 +5,7 @@
     },
     {
         "id": 2,
-        "image": "https://pmcvariety.files.wordpress.com/2015/07/naruto_movie-lionsgate.jpg?w=1000&h=563&crop=1"
+        "image": "https://static.wikia.nocookie.net/naruto/images/d/d6/Naruto_Part_I.png/revision/latest/scale-to-width-down/1200?cb=20210223094656"
     },
     {
         "id": 3,
@@ -13,7 +13,7 @@
     },
     {
         "id": 4,
-        "image": "https://vignette.wikia.nocookie.net/onepunchman/images/0/07/Saitama_serious_profile.png/revision/latest?cb=20161002154538"
+        "image": "https://static.wikia.nocookie.net/onepunchman/images/8/81/Saitama_Anime_Profile.png/revision/latest?cb=20161002154538"
     },
     {
         "id": 5,
@@ -21,7 +21,7 @@
     },
     {
         "id": 6,
-        "image": "http://theclip.com.ng/wp-content/uploads/2017/02/takasu.jpg"
+        "image": "https://static.wikia.nocookie.net/toradoranime/images/f/f1/Takasuryuuji.png/revision/latest?cb=20120521032657"
     },
     {
         "id": 7,
@@ -46,5 +46,17 @@
     {
         "id": 12,
         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7sGnF3Nc22FKd-VaDHH67M-ZoIwkuGBfAHzsn_HfUdgXXk5TIqg"
+    },
+    {
+        "id": 13,
+        "image": "https://i.ytimg.com/vi/ZXVLiNUaO9E/hqdefault.jpg"
+    },
+    {
+        "id": 14,
+        "image": "https://www.hindustantimes.com/ht-img/img/2023/04/05/1600x900/blue_lock_nagi_1680719678264_1680719689670_1680719689670.jpg"
+    },
+    {
+        "id": 15,
+        "image": "https://a1cf74336522e87f135f-2f21ace9a6cf0052456644b80fa06d4f.ssl.cf2.rackcdn.com/images/characters/large/800/Loid-Forger.SpyxFamily.webp.webp"
     }
 ]
